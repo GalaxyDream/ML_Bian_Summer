@@ -1,2 +1,2 @@
-# ML_Bian_Summer
+# Basic_ML_Practices
 Exercises for machine learning
